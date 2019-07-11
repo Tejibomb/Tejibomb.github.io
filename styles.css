@@ -1,0 +1,45 @@
+h1 {
+  color: #b81818 ; font-size: 50px;
+
+}
+
+h2 {
+  font-size: 40px;
+}
+
+
+#likes{
+background-color: #bd281a;
+
+}
+
+#hero{
+background-color: #000000;
+color: #b81818;
+}
+
+
+#title{
+
+  background-color: #ff8c8c;
+
+}
+
+#intro {
+
+  background-color: #db3021;
+}
+
+.center
+{
+  text-align: center;
+}
+
+.left
+{
+  text-align: left;
+}
+
+.right{
+  text-align: right;
+}
