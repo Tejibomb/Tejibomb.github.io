@@ -1,1 +1,1 @@
-# Tejibomb.github.io
+# thea-way.github.io
